@@ -1,6 +1,6 @@
 Olá, sou o Felipe Miguel 👋
 
-- 🔭 Hoje trabalho com Back-End
+- 👜 Hoje trabalho com Back-End
 - 🌱 Estudando Java 
 
 ##
